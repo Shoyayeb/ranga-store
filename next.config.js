@@ -7,6 +7,10 @@ const nextConfig = {
             hostname: 'tailwindui.com',
           },
           {
+          protocol: 'https',
+          hostname: 'fakestoreapi.com',
+        },
+        {
             protocol:'https',
             hostname: 'img.freepik.com',
           }
